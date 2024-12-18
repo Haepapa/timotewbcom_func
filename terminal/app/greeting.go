@@ -19,7 +19,7 @@ To get started, try entering the command <span class='hst-command'>help</span> a
 
 Session start time: %v
 
--- Development Environment --`
+<b>-- Development Environment --</b>`
 
 		resp_string  = fmt.Sprintf(resp_string, formattedTime)
 	} else {
