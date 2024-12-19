@@ -17,9 +17,7 @@ func Greeting(flags string) (string){
 Use commands to navigate and interact with the website.
 To get started, try entering the command <span class='hst-command'>help</span> and hitting enter.
 
-Session start time: %v
-
-<b>-- Production Environment --</b>`
+Session start time: %v`
 
 		resp_string  = fmt.Sprintf(resp_string, formattedTime)
 	} else {
